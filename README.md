@@ -14,7 +14,7 @@ shell for xcode
 或者收到找到以下路径，将文件夹复制进去：
 
 ```
-/Users/xaoxuu/Library/Developer/Xcode/UserData/
+~/Library/Developer/Xcode/UserData/
 ```
 
 其中`xaoxuu`对应你的用户名。
