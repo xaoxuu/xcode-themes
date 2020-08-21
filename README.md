@@ -1,21 +1,17 @@
-# xcode.sh
-shell for xcode
+# Xcode Themes
 
 
-
-下载仓库，然后在终端执行
+下载仓库，然后在终端执行：
 
 ```bash
-. xcode.sh
+. install.sh
 ```
 
 
 
-或者收到找到以下路径，将文件夹复制进去：
+或者打开以下路径，将文件夹复制进去：
 
+```bash
+open ~/Library/Developer/Xcode/UserData/
 ```
-~/Library/Developer/Xcode/UserData/
-```
-
-其中`xaoxuu`对应你的用户名。
 
